@@ -28,6 +28,10 @@
 ![模型比較](comparison_between_models.png)
 
 ---
+## 結論
+- 本專案成功估計出特定時間段內市場的風險趨避係數，並透過 Bootstrap 測試以提升估計結果的穩健性。
+- ![結果](bootstrap_result.png)
+--- 
 ## 優化目標
 - 實際分析保險需求與風險趨避係數之關係
 ---
